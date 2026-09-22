@@ -97,7 +97,7 @@ y tienen esta configuracion en modo normal:
 
 0 = MI
 
-* = FA
+"*" = FA
   
 
 y esta configuracion en modo experto:
